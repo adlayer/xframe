@@ -1,0 +1,2 @@
+#!/bin/sh
+s3cmd put --acl-public --force main.swf s3://xframe.adlayerjavascriptsdk.com
